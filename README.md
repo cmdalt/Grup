@@ -1,6 +1,8 @@
-# Grup
+# Grup Settings
 
-## sudo nano /etc/default/grub
+```
+sudo nano /etc/default/grub
+```
 
 ###GRUB_TIMEOUT_STYLE=hidden.
 
